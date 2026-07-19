@@ -94,8 +94,8 @@ Proyek ini tidak menggunakan Docker karena merupakan sistem IoT berbasis ESP32 d
 
 ## Penulis
 
-Muhammad Taufiqiy
+Muhammad Taufiqiy-191111061
 
 Program Studi Teknik Informatika
 
-Universitas Bhinneka PGRI
+Universitas Bhinneka Nusantara
