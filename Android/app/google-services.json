@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1018778625557",
+    "firebase_url": "https://smarthomeiot-4bb14-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smarthomeiot-4bb14",
+    "storage_bucket": "smarthomeiot-4bb14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018778625557:android:aa5d57b24f0c0dfedb101c",
+        "android_client_info": {
+          "package_name": "com.example.smarthomeiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRh2nIK0G2MNMVcw9sJ77UsU6SADcx5Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
